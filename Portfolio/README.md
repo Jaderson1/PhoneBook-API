@@ -28,5 +28,4 @@ Bem-vindo ao meu portfólio técnico. Aqui você encontra um resumo das minhas h
 5. Rode a API: `dotnet run` e acesse `http://localhost:5218`.
 
 ## Contato
-- Email: <seu-email@exemplo.com>
-- LinkedIn: <link-do-linkedin>
+- Email: jadersongaray@gmail.com
